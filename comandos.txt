@@ -1,0 +1,72 @@
+instalar
+npm i -g @angular/cli
+
+KeySystem
+criar um projeto
+ng new nomeProjeto --minimal
+
+angular.json
+ "inlineTemplate": false,
+ "inlineStyle": false,
+
+
+
+roda
+npm start
+
+
+material template google
+ng add @angular/material
+
+
+gerar componentes
+ng g c caminho ex..
+ng g c components/header
+ng g c components/footer
+ng g c controller/navegacao
+ng g c components/product/produt-creat
+ 
+link icons materil
+https://fonts.google.com/icons
+
+criar diretivas
+ng g d directives/red
+
+criar um sever
+ng g s components/product/product
+
+
+criar uma api em json
+
+npm init --y
+npm i json-server
+"start": "json-server --watch db.json --port 3001"
+npm start
+
+
+schematics
+https://material.angular.io/guide/schematics
+ng generate @angular/material:table components/product/product-read2
+
+
+intalar jquery
+npm install jquery --save
+npm install  @types/jquery --save 
+==angular.json
+"scripts": [
+              "./node_modules/jquery/dist/jquery.min.js"
+            ]
+==tsconfig.app.json
+ "types": ["jquery"]
+
+import * as $ from 'jquery'
+
+
+
+bootstrap
+npm install bootstrap --save
+
+"node_modules/bootstrap/dist/css/bootstrap.min.css"
+
+senha fabio
+udemyONNEE5017

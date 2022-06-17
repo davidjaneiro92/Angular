@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Sansung S20+ Ultraer",
+      "price": "7520.89"
+    },
+    {
+      "name": "Lapis Preto Básico",
+      "price": "1.50",
+      "id": 4
+    },
+    {
+      "name": "Lapis PretoDSF\\SAD Básico",
+      "price": "5.89",
+      "id": 5
+    },
+    {
+      "name": "DAVIDSSOLFJRD",
+      "price": "5.89",
+      "id": 6
+    },
+    {
+      "name": "DAVIDSDFGHDFGSOLFJRD",
+      "price": "5.89",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "name": "Cadfghdfgneta BIC Preta",
+      "price": "5.89"
+    },
+    {
+      "name": "Notebzdfvsdfook Mac Pro",
+      "price": "5.89",
+      "id": 9
+    },
+    {
+      "name": "dfvsdafv",
+      "price": "5.89",
+      "id": 10
+    }
+  ]
+}
